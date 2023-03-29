@@ -1,0 +1,48 @@
+.sec1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: aliceblue;
+    font-size: 18px;
+   margin-bottom: 300px;
+}
+li{list-style-type: none;}
+section .bet{
+    margin-bottom: 25px;
+    margin-top: 8px;
+    color: rgb(75, 75, 74);
+}
+section .first{
+    margin-bottom: 20px;
+}
+
+
+.sec2{
+    display: flex;
+    flex-wrap: wrap;
+     margin-bottom: 300px;
+     justify-content: space-around;
+    background-color: black;}
+   
+section .div_p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+     width: 400px; margin: auto;width: 500px;
+    font-size: 20px;}
+section div #size{
+    font-size: 50px;
+    display: block;
+margin-bottom: 10px;
+}
+
+
+.sec3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+section .d_div{
+padding: 20px;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+}
